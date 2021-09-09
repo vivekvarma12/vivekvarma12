@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivekvarma12
 - 👀 I’m interested in developing things using python
-- 🌱 I’m currently learning Datastructures, Django framwork, Machine learning related stuff...
-- 💞️ I’m looking to collaborate on machine learning using python.
+- 🌱 I’m currently getting expertise in advanced Datastructures concepts, Algorithms, Django framework, Machine learning related stuff...
+- 💞️ I’m looking to collaborate on Django or machine learning using python.
 - 📫 You can reach me by mailing to "varmavivek12@gmail.com".
 
 <!---
